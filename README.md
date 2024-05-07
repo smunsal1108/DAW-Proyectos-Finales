@@ -49,6 +49,6 @@ Los proyectos serán evaluados según los siguientes criterios:
 
 ## Soporte
 
-Para obtener ayuda o reportar problemas, use la sección Issues del repositorio de GitHub o contacte a los tutores del curso a través de [incluir método de contacto].
+Para obtener ayuda o reportar problemas, use la sección Issues del repositorio de GitHub o contacte a los tutores del curso a través de Moodle Centros.
 
 Gracias por contribuir a este proyecto y por su esfuerzo y dedicación al aprendizaje
