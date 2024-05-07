@@ -1,6 +1,7 @@
-# DAW-Proyectos-Finales
-Repositorio para los proyectos finales del Ciclo Formativo en Desarrollo de Aplicaciones Web. Aquí, los estudiantes diseñan, desarrollan y presentan sus proyectos, fomentando la colaboración y la revisión académica.
+# Contexto del Proyecto:
+Este proyecto consiste en desarrollar una plataforma web que permita a los estudiantes de un ciclo formativo superior en desarrollo de aplicaciones web mostrar sus proyectos finales. La plataforma debe permitir la autenticación de usuarios, la subida y gestión de proyectos, así como la visualización y búsqueda de estos proyectos por parte de otros estudiantes, profesores y empresas interesadas.
 
+Utiliza esta actividad para demostrar tus habilidades de desarrollo y colaboración en un entorno de trabajo real y práctico. ¡Esperamos ver sus innovadoras soluciones!
 
 # Plataforma de Proyectos Estudiantiles
 
